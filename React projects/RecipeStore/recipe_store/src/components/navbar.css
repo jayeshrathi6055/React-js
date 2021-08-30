@@ -1,0 +1,44 @@
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1d1c1c;
+    color: #60efe7;
+}
+.container1 h1{
+    padding:10px 0px 10px 20px;
+    font-size: 35px;
+    margin:0px 0px;
+}
+.container1 div a{
+    background-color: #0000ff;
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+.container1 div a:hover{
+    background-color: #0404c2;
+    text-decoration: underline;
+}
+
+.container7{
+    padding: 15px;
+}
+
+.home{
+    padding: 15px;
+    border: 2px solid rgb(112, 112, 112);
+    border-bottom: none;
+}
+.recipes{
+    padding: 15px;
+}
+.recipes{
+    border-bottom: 2px solid rgb(112, 112, 112);
+}
+
+.container7 a{
+    background-color: #1d1c1c !important;
+}

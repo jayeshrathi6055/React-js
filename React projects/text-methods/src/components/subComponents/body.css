@@ -1,0 +1,51 @@
+.mainBody{
+    display: flex;
+    justify-content: center;
+}
+.mainBody div{
+    width: 70vw;
+}
+.mainBody div h1{
+    font-size: 2.5rem;
+    padding: 1rem 0px;
+    padding-bottom: 3rem;
+}
+.mainBody div textarea{
+    width: 100%;
+    padding: 1rem;
+    font-size: 2rem;
+}
+.buttons{
+    width: 70vw;
+    margin: auto;
+}
+.buttons div button{
+    margin: 1rem;
+    background-color: blue;
+    border: 1px solid rgb(1, 1, 175);
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+}
+.summary{
+    margin: 2rem auto;
+    width: 70vw;
+}
+.summary p{
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding-bottom: 1rem;
+}
+
+.preview{
+    margin: 2rem auto;
+    width: 70vw;
+}
+.preview h1{
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+}
+.preview p{
+    font-size: 1.8rem;
+    font-weight: 500;
+}

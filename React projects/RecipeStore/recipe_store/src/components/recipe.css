@@ -1,0 +1,18 @@
+.newHome {
+  border: none;
+  border-bottom: 2px solid rgb(112, 112, 112);
+}
+.newRecipes {
+  border: 2px solid rgb(112, 112, 112);
+  border-bottom: none;
+}
+.container8{
+    width: 80vw;
+    margin: 30px auto;
+    padding: 1rem 2rem !important;
+}
+
+.container8 p button {
+  margin-top: 25px;
+  margin-right: 20px;
+}
